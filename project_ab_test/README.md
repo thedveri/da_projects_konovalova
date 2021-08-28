@@ -1,1 +1,1 @@
-# da_projects_konovalova
+# Анализ результатов А/В-теста
